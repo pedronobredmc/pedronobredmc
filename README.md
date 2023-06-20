@@ -12,4 +12,4 @@
 - ⚡ Fun fact: Enrolled in programming since 2022
 
 ## QUICK OVERVIEW
-    ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronobredmc&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronobredmc&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
