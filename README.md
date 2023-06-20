@@ -1,4 +1,4 @@
-### Hi there, my name is Pedro Nobrega 👋
+## Hi there, my name is Pedro Nobrega 👋
 
 
 - 🌱 Im focused in improve my programming skills and my knowledge
@@ -10,3 +10,6 @@
 - 😄 Pronouns: he/him
 
 - ⚡ Fun fact: Enrolled in programming since 2022
+
+## QUICK OVERVIEW
+    ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronobredmc&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
