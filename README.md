@@ -12,7 +12,7 @@
 - ⚡ Fun fact: Enrolled in programming since 2022
 
 ## QUICK OVERVIEW
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pedronobredmc&show_icons=true&theme=aura)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronobredmc&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronobredmc&layout=compact&theme=aura)]
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jv-cpp" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
