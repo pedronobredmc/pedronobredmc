@@ -9,8 +9,6 @@
 
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: Enrolled in programming since 2022
-
 ## QUICK OVERVIEW
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronobredmc&layout=compact&theme=aura)]
 
