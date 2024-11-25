@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Nobrega Damacena</h1>
 <h3 align="center">Welcome to my GitHub! I would like to introduce me:</h3>
 
-- 🔭 I’m currently graduating in **Computer Engineering t the Federal University of Ceará (UFC). (2022 - 2026)**
+- 🔭 I’m currently graduating in **Computer Engineering the Federal University of Ceará (UFC). (2022 - 2026)**
 
 - 🌱 I’m currently learning **BackEnd Web development**
 
